@@ -7,7 +7,7 @@
 
 
 body{
-  margin: 2em;
+  margin: 0em;
   background-color: white;
 }
 p{
@@ -23,8 +23,8 @@ a{
   text-indent: inherit;
   text-align: center;
   vertical-align: middle;
-  line-height: 26vmin;
-font-size: 220px;
+  line-height: 30vmin;
+font-size: 20px;
 }
 /* mouse over link */
 a:hover {
@@ -61,8 +61,8 @@ a.pagelink {
   text-indent: inherit;
   text-align: center;
   vertical-align: middle;
-  line-height: 30vmin;
-  font-size: 220px;
+  line-height: 15vmin;
+  font-size: 20px;
   font-family: 'dice-Regular';
 
 }
