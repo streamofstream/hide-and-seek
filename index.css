@@ -8,12 +8,12 @@
 
 body{
   margin: 2em;
-  background-color: white;
+  background-color: black;
 }
 p{
   font-size: 18px;
   line-height: 0.5vmin;
-  color: darkgrey;
+  color: grey;
 }
 
 a{
@@ -34,7 +34,7 @@ a:hover {
 a.pagelink {
   font-size: 18px;
   line-height: 0.5vmin;
-  color: darkgrey;
+  color: grey;
 }
 
 .container {
@@ -43,7 +43,7 @@ a.pagelink {
   display: grid;
   place-items: center;
   perspective: 1000px;
-  background-color: white;
+  background-color: black;
 }
 
 @keyframes rotate {
