@@ -24,7 +24,7 @@ a{
   text-align: center;
   vertical-align: middle;
   line-height: 26vmin;
-font-size: 220px;
+font-size: 150px;
 }
 /* mouse over link */
 a:hover {
@@ -48,6 +48,7 @@ a.pagelink {
 
 @keyframes rotate {
   0% { transform: rotate3d(1, 1.5, -1, 0deg); }
+  50% {  transform: rotate3d(1, 1.5, -1, 180deg); }
   100% { transform: rotate3d(1, 1.5, -1, 360deg); }
 }
 
@@ -62,7 +63,7 @@ a.pagelink {
   text-align: center;
   vertical-align: middle;
   line-height: 30vmin;
-  font-size: 220px;
+  font-size: 150px;
   font-family: 'dice-Regular';
 
 }
